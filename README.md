@@ -9,25 +9,25 @@ After a very enjoyable holiday in New York City we decide to explore the busines
 
 ## Peak Hours
 
-<img align='center' src='../Resources/Peak_Hours.png' height='200'>
+<img align='center' src='Resources/Peak_Hours.png' height='200'>
 
 
-<img align='center' src='../Resources/Checkout_Locations.png' height='200'>
+<img align='center' src='Resources/Checkout_Locations.png' height='200'>
 
 
-<img align='center' src='../Resources/Trip_Duration.png' height='200'>
+<img align='center' src='Resources/Trip_Duration.png' height='200'>
 
 
-<img align='center' src='../Resources/Duration_by_Gender.png' height='200'>
+<img align='center' src='Resources/Duration_by_Gender.png' height='200'>
 
 
-<img align='center' src='../Resources/Weekday_per_Hour.png' height='200'>
+<img align='center' src='Resources/Weekday_per_Hour.png' height='200'>
 
 
-<img align='center' src='../Resources/Gender_by_Weekday_per_Hour.png' height='200'>
+<img align='center' src='Resources/Gender_by_Weekday_per_Hour.png' height='200'>
 
 
-<img align='center' src='../Resources/Trips_by_Gender_and_Weekday.png' height='200'>
+<img align='center' src='Resources/Trips_by_Gender_and_Weekday.png' height='200'>
 
 
 
