@@ -13,7 +13,7 @@ https://public.tableau.com/views/Module14_16644928543210/Challenge?:language=en-
 ## Peak Hours
 <img align='left' src='Resources/Peak_Hours.png' height='200'>
 Peak usage hours are 5-6pm and to a lesser extent 8-9am. Bike maintenance is recommended overnight, ideally 2-5am, while usage is at its lowest.
-<br>
+<br><br>
 (click the image to enlarge)
 <br clear="left"/>
 
