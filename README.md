@@ -13,17 +13,17 @@ https://public.tableau.com/views/Module14_16644928543210/Challenge?:language=en-
 ## Peak Hours
 
 <img align='center' src='Resources/Peak_Hours.png' height='200'>
-
+Peak usage hours are 5-6pm nd to a lesser extent 8-9am. Bike maintenance is recommended overnight, ideally 2-5am, while usage is at its lowest.
 
 ## Checkout Locations
 
 <img align='center' src='Resources/Checkout_Locations.png' height='200'>
-
+Most popular bike drop-off locations coincide with the most popular locations in downtown and midtown Manhattan, which could indicate high tourist usage. Further down, we will test that hypothesis and investigate whether tourists or commuters account for the larger share of bike usage.
 
 ## Trip Duration
 
 <img align='center' src='Resources/Trip_Duration.png' height='200'>
-
+From the chart here, we can see that the vast majority of trips last less than 20 minutes, and 5min trips are the most common.
 
 ## Trip Duration by Gender
 
