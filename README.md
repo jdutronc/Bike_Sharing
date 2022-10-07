@@ -7,7 +7,7 @@ After a very enjoyable holiday in New York City we decide to explore the busines
 
 # Results
 
-A summary of our results is available below, and the full results of our analysis are available on Tableau Public here:
+A summary of our results is available below, and the full interactive results of our analysis are available on Tableau Public here:
 https://public.tableau.com/views/Module14_16644928543210/Challenge?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Peak Hours
@@ -61,10 +61,9 @@ This heatmap shows that most trips are taken by subscribers, overwhelmingly male
 
 
 # Summary
-
+Users of the CitiBike service in New York City are typically male subscribers to the service who commute to/from work. Typical trips last about 5min (with the vast majority under 20min) and start and end mostly in downtown and midtown Manhattan.
 
 
 # Recommendations
-
-
-
+It would be useful and interesting to further investigate the following in the future:
+1. 
