@@ -2,7 +2,7 @@ NYC CitiBike
 
 # Project Overview
 
-After a very enjoyable holiday in New York City we decide to explore the business opportunity to launch a bike sharing service in our hometown of Des Moines, IA. Our friend Kate has a potential seed investor interested in our project and we must dive deeper into the mechanics of how the bike sharing service works in NYC before we can adapt the model to Des Moines.
+After a very enjoyable holiday in New York City we decide to explore the business opportunity to launch a bike sharing service in our hometown of Des Moines, IA. Our friend Kate has a potential seed investor interested in our project and we must dive deeper into the mechanics of how the bike sharing service works in NYC before we can adapt the model to Des Moines, IA and pitch our potential investor.
 
 
 # Results
