@@ -26,7 +26,7 @@ Most popular bike drop-off locations coincide with the most popular locations in
 
 ## Trip Duration
 <img align='left' src='Resources/Trip_Duration.png' height='200'>
-From the chart here, we can see that the vast majority of trips last less than 20 minutes, and 5min trips are the most common.
+From the chart here, we can see that the vast majority of trips last less than 20 minutes, and 3-7min trips are the most common.
 <br><br>
 (click the image to enlarge)
 <br clear="left"/>
