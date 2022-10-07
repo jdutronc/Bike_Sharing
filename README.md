@@ -7,6 +7,9 @@ After a very enjoyable holiday in New York City we decide to explore the busines
 
 # Results
 
+A summary of our results is available below, and the full results of our analysis are available on Tableau Public here:
+https://public.tableau.com/views/Module14_16644928543210/Challenge?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
 ## Peak Hours
 
 <img align='center' src='Resources/Peak_Hours.png' height='200'>
@@ -42,10 +45,6 @@ After a very enjoyable holiday in New York City we decide to explore the busines
 <img align='center' src='Resources/Trips_by_Gender_and_Weekday.png' height='200'>
 
 
-
-
-
-https://public.tableau.com/views/Module14_16644928543210/Challenge?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 
 
