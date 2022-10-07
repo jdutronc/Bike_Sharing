@@ -65,8 +65,8 @@ Users of the CitiBike service in New York City are typically male subscribers to
 
 
 # Recommendations
-To continue evaluating our business opportunity in Des Moines, IA it will be critical to:
-1. create three new visualizations of trip durations and start/end points on weekday peak hours, weekday midday and weekends to try and establish three different sets of patterns and user profiles. This would possibly show short trips to commute to work on weekday peak hours, tourist/occasional trips around the city  (by filtering by subscribers/non-subscribers) and leisure/exercise trips on the weekend.
+To continue evaluating our business opportunity in Des Moines, IA it will be useful to:
+1. create nine new visualizations of trip durations and start/end points on weekday peak hours, weekday midday and weekends to try and establish three different sets of patterns and user profiles. This would possibly show short trips to commute to work on weekday peak hours, tourist/occasional trips around the city on weekdays midday (by filtering by subscribers/non-subscribers) and leisure/exercise trips on the weekend.
 
 And with additional data:
 2. repeat the entire analysis for other months of the year to determine monthly/seasonal changes.
